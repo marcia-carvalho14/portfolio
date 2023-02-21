@@ -1,10 +1,6 @@
 /* Typing and Deleting Effect */
 // List of sentences
-var _CONTENT = [
-  "SOFTWARE ENGINEER",
-  "FRONT-END DEVELOPER",
-  "BUSINESS APP DEVELOPER",
-];
+var _CONTENT = ["FRONT-END DEVELOPER", "DESIGNER", "FREELANCER"];
 
 var _PART = 0; // Current sentence being processed
 var _PART_INDEX = 0; // Character number of the current sentence being processed
