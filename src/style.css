@@ -405,8 +405,7 @@ html {
 }
 
 .list-unstyled li {
-  padding: 0 20px 0 20px;
-  font-size: 20px;
+  font-size: 2rem;
 }
 
 .card-contact-info {
