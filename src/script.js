@@ -27,10 +27,6 @@ const mainFn = () => {
 
 mainFn();
 
-window.addEventListener("resize", () => {
-  window.location.reload();
-});
-
 /* Typing and Deleting Effect */
 // List of sentences
 var _CONTENT = ["FRONT-END DEVELOPER", "DESIGNER", "FREELANCER"];

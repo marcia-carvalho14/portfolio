@@ -279,11 +279,11 @@ html {
 .section-3 {
   width: 100%;
   height: 100%;
-  padding: 80px 0 50px 0;
   background-color: #707070;
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-bottom: 10%;
 }
 
 .projects-wrapper {
@@ -371,15 +371,15 @@ html {
 .section-4 {
   width: 100%;
   margin: auto;
-  padding: 80px 0 50px 0;
   background-color: #525151;
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-bottom: 5%;
 }
 
 .contact {
-  padding: 50px;
+  padding: 7% 0;
 }
 
 .social-media {
@@ -394,7 +394,7 @@ html {
 }
 
 .social-media-link i {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #fff;
 }
 
@@ -415,9 +415,13 @@ html {
 
 .card-contact-info h3 {
   color: #fff;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
+.card-contact-info img {
+  padding-top: 7%;
+  width: 60%;
+}
 .section-detail-email {
   color: white;
   text-decoration: underline;
@@ -428,7 +432,6 @@ html {
 /* Section 5 */
 .section-5 {
   width: 100%;
-  height: 40px;
   background-color: #222;
   flex-direction: column;
 }
@@ -452,10 +455,6 @@ html {
 
   .service {
     margin: 3rem 2rem;
-  }
-
-  .section-4 {
-    height: 80vh;
   }
 }
 
